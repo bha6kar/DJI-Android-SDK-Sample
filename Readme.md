@@ -36,14 +36,14 @@ Download or clone the Android Sample Github Project from above:
 
 Open the project in Android Studio and paste the generated App Key string into android:value in the "com.dji.sdk.API_KEY" meda-data element in the "AndroidManifest.xml" file.
 
-Run the Sample App
+## Run the Sample App
 Compile the sample application to the Android or iOS Mobile Device. Then the Mobile Device can be connected to the DJI product to run the Sample App.
 
 For Aircraft that use Lightbridge as the wireless link between the Remote Controller and the Aircraft, the Mobile Device is connected to the product by USB.
 
 For Aircraft or products that use WiFi as a wireless link, the Mobile Device is connected to the product by WiFi.
 
-USB Connection Procedure
+## USB Connection Procedure
 Mavic Pro, Phantom 4, Phantom 4 Professional, Inspire series, Phantom 3 Professional, Phantom 3 Advanced, M100, M600, M600 Pro:
 
 Turn on the Remote Controller.
@@ -52,7 +52,7 @@ Turn on the Aircraft and wait until the Remote Controller has connected with the
 Connect iOS/Android Mobile Device to the Remote Controller using a Lightning (iOS) or USB (Android) cable.
 Run Sample App on the Mobile Device.
 
-WiFi Connection Procedure
+## WiFi Connection Procedure
 Phantom 3 Standard, Phantom 3 4K, Spark:
 
 Turn on the Remote Controller.
